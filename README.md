@@ -39,7 +39,7 @@ Cada m√©todo define un comportamiento relacionado con el movimiento, la clonaci√
 
 
 Enlance del EXE.
-El juego es es que se llama "New Unity Project.exe"
+El juego es uno que se llama "New Unity Project.exe"
 https://drive.google.com/drive/folders/1hMrdDWH1J_DCEASrfIfkFM_-tKJM5bbq?usp=sharing
 
 
