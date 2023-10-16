@@ -31,7 +31,7 @@ y programa la generación del siguiente asteroide con un tiempo de espera que di
 que quiera ser considerada como un enemigo (IEnemy) en el contexto del juego. 
 Cada método define un comportamiento relacionado con el movimiento, la clonación, las colisiones y la reproducción de una explosión para los enemigos en el juego.
 
- -Se implemento el patron de diseño "Singleton" para el GameManager.
+- Se implemento el patron de diseño "Singleton" para el GameManager.
  
 - Se implemento el patron de diseño "Pooling" Para las balas del Player.
   
