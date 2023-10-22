@@ -1,5 +1,6 @@
 # Avanze-de-Videojuego-Scripting---2023
 ------------------------------------------- BETA / (Tercera entrega) ----------------------------------------------------------------
+
 Integrantes: Juan Pablo Arango Zuleta y Abraham Peláez Trujillo
 
 - Se hicieron modificaciones en el script del playercontroller agregando que el personaje se mantenga dentro de los limites del juego y implementamos la logica de cuando el "player" entre en contacto con el pick up de vida le sume correctamente una Vida.-
