@@ -11,16 +11,19 @@ public class PlayerController : MonoBehaviour
     public GameObject bulletPosition01;
     public GameObject bulletPosition02;
     public GameObject ExplosionGO;
+    public GameObject LifePickupGO; 
     public Text LivesTMPro;
     const int MaxLives = 3;
     int lives;
     public float velocidadMovimiento = 5f;
-    public int bulletPoolSize = 10;  // Tamaño del pool de balas
-    public List<GameObject> bulletPool;  // Lista de balas en el pool
+    public int bulletPoolSize = 10;
+    public List<GameObject> bulletPool;
+    private Rigidbody2D rb;
+
+    public float minX, maxX, minY, maxY;
 
     void Start()
     {
-        // Inicializar el pool de balas
         bulletPool = new List<GameObject>();
         for (int i = 0; i < bulletPoolSize; i++)
         {
@@ -29,6 +32,12 @@ public class PlayerController : MonoBehaviour
             bulletPool.Add(bullet);
         }
         rb = GetComponent<Rigidbody2D>();
+
+        
+        minX = Camera.main.ViewportToWorldPoint(new Vector3(0, 0, 0)).x;
+        maxX = Camera.main.ViewportToWorldPoint(new Vector3(1, 0, 0)).x;
+        minY = Camera.main.ViewportToWorldPoint(new Vector3(0, 0, 0)).y;
+        maxY = Camera.main.ViewportToWorldPoint(new Vector3(0, 1, 0)).y;
     }
 
     public void Init()
@@ -38,9 +47,6 @@ public class PlayerController : MonoBehaviour
         transform.position = new Vector2(0, 0);
         gameObject.SetActive(true);
     }
-
-    private Rigidbody2D rb;
-
 
     void Update()
     {
@@ -54,7 +60,12 @@ public class PlayerController : MonoBehaviour
         float movimientoX = Input.GetAxis("Horizontal");
         float movimientoY = Input.GetAxis("Vertical");
         Vector2 movimiento = new Vector2(movimientoX, movimientoY) * velocidadMovimiento * Time.deltaTime;
-        rb.velocity = movimiento;
+
+        
+        float newX = Mathf.Clamp(transform.position.x + movimiento.x, minX, maxX);
+        float newY = Mathf.Clamp(transform.position.y + movimiento.y, minY, maxY);
+
+        rb.velocity = new Vector2(newX - transform.position.x, newY - transform.position.y);
     }
 
     void OnTriggerEnter2D(Collider2D col)
@@ -64,12 +75,18 @@ public class PlayerController : MonoBehaviour
             PlayExplosion();
             lives--;
             LivesTMPro.text = lives.ToString();
-            
+
             if (lives == 0)
             {
                 GameManagerGO.GetComponent<GameManager>().SetGameManagerState(GameManager.GameManagerState.GameOver);
                 gameObject.SetActive(false);
             }
+        }
+        else if (col.tag == "LifePickupTag")
+        {
+            lives++;
+            LivesTMPro.text = lives.ToString();
+            Destroy(col.gameObject);
         }
     }
 
@@ -81,10 +98,7 @@ public class PlayerController : MonoBehaviour
 
     void FireBullet(Vector3 position)
     {
-        // Buscar una bala inactiva en el pool
         GameObject bullet = bulletPool.Find(b => !b.activeSelf);
-
-        // Si encontramos una bala inactiva, la reutilizamos
         if (bullet != null)
         {
             bullet.transform.position = position;

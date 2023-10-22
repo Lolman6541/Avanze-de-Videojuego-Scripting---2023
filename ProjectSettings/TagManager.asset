@@ -10,6 +10,7 @@ TagManager:
   - EnemyBulletTag
   - ScoreTextTag
   - AsteroidTag
+  - LifePickupTag
   layers:
   - Default
   - TransparentFX

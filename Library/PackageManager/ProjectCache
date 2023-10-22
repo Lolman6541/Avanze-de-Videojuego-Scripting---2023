@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/Lenovo/Desktop/Starchip Game/Packages/manifest.json
+    m_FilePath: C:/Users/hp/Desktop/archivos pc/Dulce aventura/Starchip Game/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 638305079842133336
     m_Hash: 1060436673
   m_LockFileStatus:
-    m_FilePath: C:/Users/Lenovo/Desktop/Starchip Game/Packages/packages-lock.json
+    m_FilePath: C:/Users/hp/Desktop/archivos pc/Dulce aventura/Starchip Game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,15 +19,15 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/Lenovo/Desktop/Starchip Game/Packages
-m_EditorVersion: 2022.3.5f1 (9674261d40ee)
+m_ProjectPath: C:/Users/hp/Desktop/archivos pc/Dulce aventura/Starchip Game/Packages
+m_EditorVersion: 2023.1.12f1 (38370f5b2257)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.2d.sprite@1.0.0
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -63,6 +63,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -80,12 +82,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -204,7 +212,6 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
-    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
@@ -214,7 +221,6 @@ m_ResolvedPackages:
     - 3.2.0-pre.3
     - 3.2.0-pre.4
     - 3.2.0-pre.5
-    - 3.2.0-pre.6
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.6
@@ -244,6 +250,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637547111200000000
   documentationUrl: 
@@ -261,12 +269,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.ugui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -315,6 +329,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -332,12 +348,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -370,6 +392,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -387,12 +411,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.androidjni@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -424,6 +454,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -441,12 +473,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.animation@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -479,6 +517,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -496,12 +536,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.assetbundle@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -534,6 +580,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -551,12 +599,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.audio@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -589,6 +643,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -606,12 +662,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.cloth@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -648,6 +710,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -665,12 +729,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.director@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -711,6 +781,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -728,12 +800,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.imageconversion@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -744,8 +822,7 @@ m_ResolvedPackages:
   category: 
   type: module
   description: 'The ImageConversion module implements the ImageConversion class which
-    provides helper methods to convert images from and to PNG, JPEG or EXR formats.
-    Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ImageConversionModule.html'
+    provides helper methods for converting image data. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ImageConversionModule.html'
   status: 0
   errors: []
   versions:
@@ -767,6 +844,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -784,12 +863,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.imgui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -822,6 +907,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -839,12 +926,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.jsonserialize@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -877,6 +970,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -894,12 +989,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.particlesystem@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -932,6 +1033,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -949,12 +1052,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.physics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -987,6 +1096,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1004,12 +1115,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.physics2d@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1042,6 +1159,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1059,12 +1178,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.screencapture@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -1101,6 +1226,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1118,12 +1245,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.terrain@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -1156,6 +1289,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1173,12 +1308,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.terrainphysics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -1219,6 +1360,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1236,12 +1379,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.tilemap@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -1277,6 +1426,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1294,12 +1445,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.ui@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -1332,6 +1489,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1349,12 +1508,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.uielements@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -1399,6 +1564,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1416,12 +1583,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.umbra@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -1454,6 +1627,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1471,12 +1646,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unityanalytics@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -1517,6 +1698,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1534,12 +1717,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequest@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -1572,6 +1761,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1589,12 +1780,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequestassetbundle@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -1635,6 +1832,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1652,12 +1851,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequestaudio@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -1698,6 +1903,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1715,12 +1922,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequesttexture@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -1761,6 +1974,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1778,12 +1993,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.unitywebrequestwww@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -1840,6 +2061,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1857,12 +2080,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.vehicles@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -1899,6 +2128,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1916,12 +2147,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.video@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -1966,6 +2203,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -1983,12 +2222,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.vr@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2035,6 +2280,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2052,12 +2299,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.wind@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -2090,6 +2343,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2107,12 +2362,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.xr@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -2157,6 +2418,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2174,12 +2437,18 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.modules.subsystems@1.0.0
   testable: 0
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\Lenovo\Desktop\Starchip Game\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\hp\Desktop\archivos pc\Dulce aventura\Starchip Game\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -2216,6 +2485,8 @@ m_ResolvedPackages:
     capabilities: 7
     configSource: 0
   hideInEditor: 1
+  entitlements:
+    licensingModel: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: 
@@ -2233,3 +2504,9 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 

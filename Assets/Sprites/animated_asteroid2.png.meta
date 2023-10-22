@@ -184,6 +184,30 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -848,7 +872,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animated_asteroid2_0: 8730071366334580579
+      animated_asteroid2_1: 4450768053442939067
+      animated_asteroid2_10: 3539577968212939097
+      animated_asteroid2_11: -8166399811626134676
+      animated_asteroid2_12: 5881751500756761413
+      animated_asteroid2_13: 1046731772877163434
+      animated_asteroid2_14: 9100578873667219289
+      animated_asteroid2_15: 2122861886184242432
+      animated_asteroid2_16: 2715196879656563342
+      animated_asteroid2_17: 4316580473406498989
+      animated_asteroid2_18: -1407840310246352201
+      animated_asteroid2_19: 2718814816511065947
+      animated_asteroid2_2: -8856466811705777963
+      animated_asteroid2_20: -5235285148943692820
+      animated_asteroid2_21: -3864911873416405817
+      animated_asteroid2_22: -6733452605133824644
+      animated_asteroid2_23: -8840921415127857375
+      animated_asteroid2_24: -4789309358701350609
+      animated_asteroid2_25: -9090509608631294563
+      animated_asteroid2_26: -5229412953006697045
+      animated_asteroid2_27: 8250552211568790822
+      animated_asteroid2_28: -467059970007607725
+      animated_asteroid2_29: 969900848979394896
+      animated_asteroid2_3: -8685638952216179432
+      animated_asteroid2_30: 6464497380704656565
+      animated_asteroid2_4: -6194230623625269322
+      animated_asteroid2_5: -5803138217329093549
+      animated_asteroid2_6: 1345994640166706524
+      animated_asteroid2_7: 5707200455599357972
+      animated_asteroid2_8: -4001313193964393307
+      animated_asteroid2_9: 8667430659303892819
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
